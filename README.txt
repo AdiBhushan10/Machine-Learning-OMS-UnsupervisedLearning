@@ -2,13 +2,10 @@
 # Submission By: Aditya Bhushan
 ########################################################################################
 
-This is the 3nd assignment of the ML course - Unsupervised Learning
-
-My github repository containing the codes:
-https://github.com/AdiBhushan10/Machine-Learning-OMS-UnsupervisedLearning
+This Project is based on Unsupervised Learning!
 
 This repository contains the following python files:
-a) Assignment 3 - Dataset1.py
+a) Project - Dataset1.py
 All 5 parts as per assignment instructions has been completed. There are multiple functions that computes the plots that I have used for Dataset 1. 
 These are the functions:
 #K_Means_graphs()
@@ -46,7 +43,7 @@ These are the functions:
 #NeuralNet_EM_GMM()
 #NeuralNet_Clustering()
 
-b) Assignment 3 - Dataset2.py
+b) Project - Dataset2.py
 All 3 parts as per assignment instructions has been completed (Part 4 & 5 not required for this dataset). There are multiple functions that computes the plots that I have used for Dataset 2. 
 These are the functions:
 #K_Means_graphs()
